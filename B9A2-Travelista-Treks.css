@@ -525,6 +525,25 @@ footer {
 
 
 
+    .destination{
+        margin: 20px;
+    }
+    .img1 , .img2 , .img3 , .img4 ,.img5 , .img6 , .img7{
+        grid-column: span 12;
+        height: 186px;
+    }
+    .destination-name {
+        position: relative;
+        bottom: 150px;
+    }
+
+    .why-choose{
+        margin: 20px;
+    }
+
+    .card{
+        grid-column: span 2;
+    }
     .newsletter-description {
         max-width: 260px;
     }
